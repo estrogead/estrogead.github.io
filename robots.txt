@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://estrogead.github.io/sitemap.html.gz
+Sitemap: https://estrogead.github.io/app/sitemap.html.gz
+Sitemap: https://estrogead.github.io/assets/sitemap.html.gz
+Sitemap: https://estrogead.github.io/css/sitemap.html.gz
+Sitemap: https://estrogead.github.io/includes/sitemap.html.gz
+Sitemap: https://estrogead.github.io/item/sitemap.html.gz
+Sitemap: https://estrogead.github.io/src/sitemap.html.gz
